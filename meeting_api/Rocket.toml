@@ -1,0 +1,18 @@
+[development]
+address = "127.0.0.1"
+port = 6070
+appid = "wxb10298bf0dac262b"
+secret = "84bda2896ea5b78dc2249b284b75a7cb"
+
+[staging]
+address = "0.0.0.0"
+port = 8000
+appid = "wxb10298bf0dac262b"
+secret = "84bda2896ea5b78dc2249b284b75a7cb"
+
+
+[production]
+address = "0.0.0.0"
+port = 8000
+appid = "wx4eaa865d27cae001"
+secret = "bfc6fd4601f75d5f7b786b64e9ad73d4"
